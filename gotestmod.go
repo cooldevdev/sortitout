@@ -12,6 +12,6 @@ func SayYo() {
 	fmt.Println("YoYo from mod")
 }
 
-func SayNo() {
+func SayNo_V1() {
 	fmt.Println("NoNo from mod")
 }
